@@ -1,0 +1,47 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js
+
+PATH: 
+  C:\Users\PHANTOM\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\PHANTOM\bin;C:\Python27;C:\Python27\Scripts;C:\tools\ruby25\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\adb;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Yarn\bin;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\AOMEI Backupper;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\4.0\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.3.3\bin;C:\Users\PHANTOM\AppData\Local\Programs\Python\Python37-32\Scripts;C:\Users\PHANTOM\AppData\Local\Programs\Python\Python37-32;C:\Ruby25-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Users\PHANTOM\AppData\Local\Yarn\bin;C:\Users\PHANTOM\AppData\Roaming\Dashlane\4.6.6.23032\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\PHANTOM\AppData\Roaming\Dashlane\5.15.1.22107\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\PHANTOM\AppData\Roaming\Dashlane\5.15.1.22107\ucrt;C:\Program Files\Heroku\bin;C:\Program Files\Docker Toolbox;C:\Users\PHANTOM\AppData\Local\.meteor;C:\Users\PHANTOM\AppData\Local\.meteor;C:\Users\PHANTOM\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PHANTOM\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PHANTOM\AppData\Roaming\npm;C:\Users\PHANTOM\AppData\Local\Android\Sdk\platform-tools;C:\Users\PHANTOM\AppData\Local\Android\Sdk\tools;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.8.0-20180601.1611
+
+Node version: 
+  11.4.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EBUSY: resource busy or locked, unlink 'C:\projects\Electron\speed -typing-game\node_modules\electron\dist\resources\default_app.asar'
+
+npm manifest: 
+  {
+    "name": "electron-quick-start",
+    "version": "1.0.0",
+    "description": "A minimal Electron application",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "repository": "https://github.com/electron/electron-quick-start",
+    "keywords": [
+      "Electron",
+      "quick",
+      "start",
+      "tutorial",
+      "demo"
+    ],
+    "author": "GitHub",
+    "license": "CC0-1.0",
+    "devDependencies": {
+      "electron": "^3.0.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
